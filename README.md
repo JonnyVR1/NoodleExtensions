@@ -1,3 +1,7 @@
+**Noodle Extensions is now maintained in the [Aeroluna/Heck](https://github.com/Aeroluna/Heck) repository.**
+
+----
+
 # NoodleExtensions
 
 This adds a host of new things you can do with your maps.
